@@ -9,7 +9,7 @@ I left it public because it provides functional real world examples for the feat
 It is thus public only for educational purposes.
 
 DO NOT UNDER ANY CIRCUMSTANCES TRY TO COPY PASTE PARTS OF THIS CONFIGURATION INTO YOUR OWN.
-YOUR PRINTER WILL HAVE DIFFERENT HARDWARE, FIRMWARE, PIN NAMES, OPERATING SYSTEM...
+YOUR PRINTER WILL HAVE DIFFERENT HARDWARE, FIRMWARE, PIN NAMES, OPERATING SYSTEMS AND ZODIAC SIGNS.
 
 Disclaimer:
 - The developer is not responsible for any therapy costs induced by trying to understand, modify, or otherwise interact with the dark magic known as "Klipper configuration."
