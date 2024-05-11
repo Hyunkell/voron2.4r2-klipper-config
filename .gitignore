@@ -2,5 +2,6 @@
 !.gitignore
 !printer.cfg
 !stealthburner_leds.cfg
+!Sensorless-Homing.cfg
 !README.md
 !LICENSE
